@@ -28,4 +28,4 @@ jobs:
       run: npm run test:unit
 
     - name: Display Softuni Username
-     run: echo "PowerCell46"
+      run: echo "PowerCell46"
